@@ -1,4 +1,4 @@
-# Sumário
+# Sumário do projeto
 
 - [Habilidades](#habilidades)
 - [Entregáveis](#entregáveis)
