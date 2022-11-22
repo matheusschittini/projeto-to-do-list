@@ -58,7 +58,6 @@ function deleteCompletedTasks() {
     });
 }
 
-
 turnToGray();
 addToTheList();
 completeTask();
