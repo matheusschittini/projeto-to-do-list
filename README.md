@@ -1,18 +1,6 @@
+Esse projeto foi desenvolvido por mim no 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, explorei os conhecimentos ensinados acerca de CSS, HTML e manipulação do DOM (Document Object Model) por meio da linguagem de programação JavaScript. O objetivo do projeto é implementar uma página web que contém uma lista de tarefas dinâmica.
 
-
-# Habilidades
-
-- Manipular CSS
-
-- Manipular Javascript
-
---- 
-
-## O que deverá ser desenvolvido
-
-- Será desenvolvido uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
-
---
+Exemplo:
 
 ![exemplo de uma todo list](./todo-list-example.gif)
 
